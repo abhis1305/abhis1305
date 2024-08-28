@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@abhishe61040389" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhishe61040389" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/httphttps://www.linkedin.com/in/abhishek-singh-819989285/s://www.instagram.com/abhi13_._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="httphttps://www.linkedin.com/in/abhishek-singh-819989285/s://www.instagram.com/abhi13_._/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/httphttps://www.linkedin.com/in/abhishek-si13/s://www.instagram.com/abhi13_._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="httphttps://www.linkedin.com/in/abhishek-singh-819989285/s://www.instagram.com/abhi13_._/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/abhi13_._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abhi13_._/" height="30" width="40" /></a>
 </p>
 
